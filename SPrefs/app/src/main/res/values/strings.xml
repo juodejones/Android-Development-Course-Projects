@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">SPrefs</string>
+	<string name="change_button">Change</string>
+	<string name="enter_text_hint">Enter Text</string>
+</resources>
